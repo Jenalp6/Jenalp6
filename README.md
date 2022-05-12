@@ -1,12 +1,12 @@
 # alperaslan
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-g%C3%BCltekin-374847224/)
-<a href="https://jenalp6.github.io/Jenalp6/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=yasingultekin" alt="visitor counter" width="15%"/>
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-alperaslan/)
+<a href="https://jenalp6.github.io/Jenalp6/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=jenalp6" alt="visitor counter" width="15%"/>
 <!-- <p align="left">  </p> -->
 ### What I'm using ? :hammer_and_wrench:
 - Python, SQL, HTML5, CSS3, Git, GitHub
 - :speech_balloon: Ask  me about anything that you want to learn
--  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/yasin-g%C3%BCltekin-374847224/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
+-  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/dev-alperaslan/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
 ## :rocket: Skills
 <p>
  <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150" height="48"/> </a>
@@ -32,6 +32,6 @@
 </p>
 ## :chart_with_upwards_trend: Statistics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=yasingultekin&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasingultekin&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasingultekin&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=jenalp6&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jenalp6&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenalp6&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
